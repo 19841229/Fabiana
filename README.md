@@ -16,3 +16,6 @@ Este é um aplicativo web interativo desenvolvido com **Streamlit** e **Plotly**
 ```bash
 git clone https://github.com/Fabiana/projeto-GIT/Fabiana-1
 cd C:\Users\Fabiana\projeto-GIT\Fabiana-1>
+
+
+Para acessar no Render https://fabiana-571p.onrender.com
